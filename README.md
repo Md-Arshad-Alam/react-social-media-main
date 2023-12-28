@@ -49,12 +49,6 @@ Social Media App "Quack" built in ReactJs.
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/ichiragtaluja/react-social-media.git
-```
-
 Go to the project directory
 
 ```bash
