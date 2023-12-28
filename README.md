@@ -47,25 +47,6 @@ Social Media App "Quack" built in ReactJs.
 
 
 
-## Run Locally
-
-Go to the project directory
-
-```bash
-  cd react-social-media
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
 
 
 
